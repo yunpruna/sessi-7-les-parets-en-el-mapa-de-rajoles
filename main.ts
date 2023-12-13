@@ -144,3 +144,4 @@ scene.setBackgroundImage(img`
     ....................................................6666666666666666666666666666666666666666666666666...........................................................
     `)
 tiles.setCurrentTilemap(tilemap`level1`)
+scene.cameraFollowSprite(mySprite)
